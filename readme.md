@@ -1,4 +1,4 @@
-## create a new repository on the command line
+# create a new repository on the command line
 ```bash
 echo "# dns-failover" >> readme.md
 git init
@@ -9,7 +9,7 @@ git remote add origin https://github.com/fatih-keles/dns-failover.git
 git push -u origin main
 ```
 
-## push an existing repository from the command line
+# push an existing repository from the command line
 ```bash
 git remote add origin https://github.com/fatih-keles/dns-failover.git
 git branch -M main

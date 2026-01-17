@@ -1,0 +1,3 @@
+export COMPARTMENT_ID=ocid1.compartment.oc1..<id>
+export PRIMARY=<primary-public-ip>
+export SECONDARY=<secondary-public-ip>
